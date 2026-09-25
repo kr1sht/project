@@ -1,3 +1,5 @@
+# StudyCards - версия для main
+
 # StudyCards 
 
 Ссылка на Wiki:
