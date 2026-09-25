@@ -1,3 +1,7 @@
+\# StudyCards - изменение в feature
+
+
+
 Ссылка на Wiki:
 [https://github.com/kr1sht/project/wik](https://github.com/kr1sht/project/wiki)
 
