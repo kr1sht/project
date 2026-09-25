@@ -1,3 +1,5 @@
+# StudyCards - версия для GitHub PR
+
 # StudyCards 
 
 Ссылка на Wiki:
