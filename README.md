@@ -1,4 +1,4 @@
-# StudyCards - версия для GitHub PR
+# StudyCards - версия для main
 
 # StudyCards 
 
